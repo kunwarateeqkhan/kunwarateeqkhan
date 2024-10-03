@@ -1,6 +1,6 @@
 ## Hi, I am Ateeq ✌️
 
-🏫 I am a student at Bennett University. <br>
+🏫 I am a student at Bennett University, Greater Noida, Delhi, India. <br>
 👨‍🎓 Pursuing B.Tech in Computer Science and Engineering. <br>
 👨‍💻 I am a Fullstack Developer. <br>
 🤖 Currently learning about AI/ML. <br> <br>
